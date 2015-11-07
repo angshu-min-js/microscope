@@ -1,0 +1,11 @@
+<template name="postPage">
+<div class="page">
+{{> postItem}}
+<ul class="comments">
+{{#each comments}}
+{{> comments}}
+{{/each}}
+</ul>
+{{> commentSubmit}}
+</div>
+</template>
