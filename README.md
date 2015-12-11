@@ -52,4 +52,15 @@ reactivity and synchronization to propagate.
 over.
  * To summarize or aggregate data (e.g. count, average, sum).
 
-
+###Packages
+```
+meteor add twbs:bootstrap
+meteor add accounts-ui
+meteor add accounts-password
+meteor add autopublish
+meteor add insecure
+meteor add acemtp:meta-extractor
+meteor add iron:router
+meteor add barbatus:stars-rating
+meteor add meteor-platform
+```
